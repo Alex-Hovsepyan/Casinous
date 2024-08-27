@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Open-Sans';
+    src: url("../fonts/OpenSans.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Josefin-Sans';
+    src: url("../fonts/JosefinSans.ttf") format('truetype');
+}

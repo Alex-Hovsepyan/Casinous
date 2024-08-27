@@ -1,0 +1,10 @@
+<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <title>Play Icon</title>
+    <desc>Play icon with border</desc>
+    <defs>
+        <!-- You can add any definitions here if needed -->
+    </defs>
+    <g fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 2L4 22L20 12L4 2Z" fill="none"/>
+    </g>
+</svg>
