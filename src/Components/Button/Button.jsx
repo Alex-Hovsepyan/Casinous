@@ -13,6 +13,7 @@ const ButtonStyled = styled(Link)`
     box-shadow: -3.828px -3.828px 6px 0px rgba(255, 200, 39, 0.4), 3px 5px 8px 0px rgba(255, 82, 1, 0.2);
     transition: box-shadow 0.3s ease;
     text-transform: capitalize;
+    z-index: 1;
     
     &:hover {
         box-shadow: 11px 11px 32px rgba(255, 82, 1, 0.2), -11px -11px 32px rgba(255, 200, 39, 0.4);

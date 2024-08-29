@@ -5,6 +5,7 @@ const MyThemeProvider = ({children}) => {
   const theme = {
     laptop: '991px',
     mobile: '575px',
+    desktop: '1050px',
   }
 
   return (

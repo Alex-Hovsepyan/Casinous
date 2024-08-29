@@ -37,5 +37,9 @@ export const globalStyles = css`
       --dark-purple: #2e0327;
       --black: #1f1f23;
       --text-color: #ffffffcc;
-  }
+      
+      
+      
+      --section-padding: 8.125rem 0;
+}
 `;

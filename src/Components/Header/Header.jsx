@@ -88,7 +88,7 @@ const Header = () => {
 
   return (
     <S.Header isScrolled={isScrolled}>
-      {isOpenedMenu && isLapTop && <S.Overlay></S.Overlay>}
+      {isOpenedMenu && isLapTop && <S.Overlay onClick={() => setIsOpenedMenu(false)}></S.Overlay>}
       <S.HeaderContainer>
         <Link to={'/'}><img src={logo} alt='logo'/></Link>
         {isLapTop && (

@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const AboutCasino = styled.section`
-    padding: 8.125rem 0;
+    padding: var(--section-padding);
     background-color: var(--primary-color);
     position: relative;
 `;
